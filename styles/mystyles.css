@@ -1,0 +1,27 @@
+body {
+  background-color #333;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+}
+.border{
+  align-content: space-around;
+}
+.centertext{ text-align: center;
+   }
+
+.aboutpage{
+  text-align: center;
+  text-decoration-color: black;
+  font-size:x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bodyabout{
+  background-color:beige;
+}
+.header{
+  font-size:small;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
